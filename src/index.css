@@ -1,0 +1,43 @@
+.bg-headtable {
+  background-color: #333366 !important;
+}
+.bg-navbg {
+  background-color: #cfcfcf !important;
+  opacity: 0.9;
+}
+.bg-headercard {
+  background-color: #cfcfcf !important;
+}
+.bg-contentcard {
+  background-color: #dfdfdf !important;
+  opacity: 0.9;
+}
+.rdt_TableHeadRow {
+  background-color: #c7c7c7 !important;
+  font-size: 17px;
+}
+.rdt_Pagination {
+  background-color: #c7c7c7 !important;
+  font-size: 17px;
+}
+.rdt_TableCell,.hhFkzl {
+  background-color: #d5d5d5 !important;
+  font-size: 14px;
+}
+.swal2-modal,.dark .swal2-toast {
+  background-color: #d5d5d5 !important;
+}
+.text-gray {
+  color: rgb(80, 80, 80);
+}
+
+input[type=text]:focus, input[type=password]:focus, input[type=number]:focus, input[type=date]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+@media (min-width: 576px) {
+  .modal-xl {
+    max-width: 90% !important;
+  }
+}
